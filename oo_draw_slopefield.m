@@ -1,4 +1,4 @@
-function y = draw_ode(f, delta, range, scale)
+function y = oo_draw_slope_field(f, delta, range, scale)
 %
 % draw the image of an ode with dy/dx = f(x,y)
 %      f is the function of derivative
